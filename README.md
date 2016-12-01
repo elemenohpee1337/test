@@ -1,1 +1,1 @@
-# test
+(uri_domain="*mediafire.com" OR uri_domain="*hightail.com" OR uri_domain="*yousendit.com" OR uri_domain="*rapidshare.com" OR uri_domain="*sharefile.com" OR uri_domain="*minus.com" OR uri_domain="*sugarsync.com" OR uri_domain="*sync.com" OR uri_domain="*tresorit.com" OR uri_domain="*spideroak.com" OR uri_domain="*mega.nz" OR uri_domain="*sookasa.com" OR uri_domain="*teamdrive.com" OR uri_domain="*degoo.com" OR uri_domain="*pcloud.com" OR uri_domain="*sugarsync.com" OR uri_domain="*copy.com" OR uri_domain="*mover.io" OR uri_domain="*cubby.com")
